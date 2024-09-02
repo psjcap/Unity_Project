@@ -1,3 +1,5 @@
+* 하루에 조금씩이라도 진도 나가자..!!
+
 * 2024/09/02
   - 필수 Package 설치 : Addressables, Timeline, Cinemachine, UniTask
   - 기본 Folder구조  구성
